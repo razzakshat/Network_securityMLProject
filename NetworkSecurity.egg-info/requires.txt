@@ -3,8 +3,14 @@ pandas
 numpy
 pymongo
 certifi
+pymongo[srv]
+pymongo
+dnspython
 python-dotenv
 pandas
 numpy
 pymongo
 certifi
+pymongo[srv]
+pymongo
+dnspython

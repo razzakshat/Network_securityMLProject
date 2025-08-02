@@ -1,0 +1,4 @@
+2025-08-02 12:26:20,309 - INFO - Logging setup complete.
+2025-08-02 12:26:20,309 - WARNING - This is a warning message.
+2025-08-02 12:26:20,309 - ERROR - This is an error message.
+2025-08-02 12:26:20,309 - INFO - Enter the try block
